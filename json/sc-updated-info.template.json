@@ -1,0 +1,17 @@
+{
+  "systemHeader": {
+      "templateId": "74746c80-8378-11e6-99b1-71ee944cf59f",
+      "systemType": "template",
+      "summaryName": "sc-updated-info test"
+  },
+  "name": "sc-updated-info test",
+  "documentId": "12898235-03fe-4916-b0f5-24b257b57fa7",
+  "components": [
+      {
+          "label": "Test sc-updated-info",
+          "componentName": "sc-updated-info",
+          "name": "testScUpdatedInfo",
+          "fullWidth": true
+      }
+  ]
+}

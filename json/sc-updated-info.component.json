@@ -1,0 +1,49 @@
+{
+  "systemHeader": {
+      "templateId": "74746c80-8378-11e6-99b1-71ee944cf59f",
+      "systemType": "component",
+      "summaryName": "sc-updated-info"
+  },
+  "documentId": "462a139e-107d-4941-be11-6817d68a5094",
+  "appTags": [
+      "system",
+      "components",
+      "componentDefinition"
+  ],
+  "name": "sc-updated-info",
+  "versionNumber": "0.0.1",
+  "versionInfo": "Initial version of sc-updated-info component",
+  "vendorLibrariesRelNotes":  "Change 'fileNameLocal' field to 'fileName' if running on a local instance on the core. Paste built folder to server/public/vendor/custom-component-modules",
+  "vendorLibrariesRel": [
+    {
+      "documentId": "e5c35d95-fe3f-4fb8-9885-f8543f4a9007",
+      "name": "sc-updated-info",
+      "fileName": "https://fileshare.formbird.com/fb/sc-updated-info/dist/sc-updated-info/styles.css",
+      "fileNameLocal": "vendor/custom-component-modules/sc-updated-info/styles.css"
+    },
+    {
+      "documentId": "cc760ba3-6787-4ca6-b316-5891e5682ed2",
+      "name": "sc-updated-info",
+      "fileName": "https://fileshare.formbird.com/fb/sc-updated-info/dist/sc-updated-info/runtime.js",
+      "fileNameLocal": "vendor/custom-component-modules/sc-updated-info/runtime.js"
+    },
+    {
+      "documentId": "935d18c9-7968-45c9-b0cc-7c730308312e",
+      "name": "sc-updated-info",
+      "fileName": "https://fileshare.formbird.com/fb/sc-updated-info/dist/sc-updated-info/polyfills.js",
+      "fileNameLocal": "vendor/custom-component-modules/sc-updated-info/polyfills.js"
+    },
+    {
+      "documentId": "48e2652f-b449-432c-ac19-8603f22ffeab",
+      "name": "sc-updated-info",
+      "fileName": "https://fileshare.formbird.com/fb/sc-updated-info/dist/sc-updated-info/vendor.js",
+      "fileNameLocal": "vendor/custom-component-modules/sc-updated-info/vendor.js"
+    },
+    {
+      "documentId": "58057e18-7ac7-4c4c-9943-b3363571a199",
+      "name": "sc-updated-info",
+      "fileName": "https://fileshare.formbird.com/fb/sc-updated-info/dist/sc-updated-info/main.js",
+      "fileNameLocal": "vendor/custom-component-modules/sc-updated-info/main.js"
+    }
+  ]
+}
